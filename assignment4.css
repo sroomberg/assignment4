@@ -96,3 +96,5 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+.search-result-item { list-style-type: none; font-size: 2em; }
